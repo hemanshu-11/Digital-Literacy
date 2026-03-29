@@ -1,0 +1,43 @@
+# Case Study: UPI/Online Payment Fraud
+
+## What is UPI Fraud?
+
+"UPI fraud is a cyber crime in which fraudsters trick victims into sending money or revealing their UPI PIN using various deceptive methods."
+
+## How Does UPI Fraud Happen? (Step by Step)
+
+1. The fraudster contacts the victim via phone call or WhatsApp, posing as a bank representative or customer service representative.
+
+2. The fraudster informs the victim that their bank account is compromised or that they have a cashback offer.
+
+3. The fraudster sends a "collect request" via UPI applications such as GPay, PhonePe, or Paytm, which essentially means they're withdrawing money.
+
+4. The fraudster then convinces the victim to enter their UPI PIN to verify their account or receive the cashback.
+
+5. As soon as the PIN is entered, money is debited from the victim's account instantly.
+
+## Who is Targeted?
+
+- College students who are new to digital payments
+
+- Senior citizens who are new to UPI
+
+- Small business owners
+
+- People searching for jobs or loans online
+
+## Consequences
+
+- Immediate loss of money
+
+- Lack of an option to reverse the UPI transaction
+
+- Mental stress and anxiety
+
+- Possibility of identity theft if bank details are shared
+
+- In some cases, the money lost is the entire savings
+
+## Source
+
+Based on the common pattern of UPI fraud cases reported on cybercrime.gov.in and RBI consumer awareness guidelines.
